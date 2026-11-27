@@ -42,4 +42,4 @@ Inspect: [README](https://github.com/ambientframe/owner-intelligence) · [proof]
 
 Record authoritative state. Encode policy deterministically when the rule is known. Bound model judgment to a schema when inference is useful. Keep humans in authority for consequence. Attach provenance. Make recovery and replay safe. Evaluate the failure modes that would actually hurt the business.
 
-Default demos run locally against synthetic fixtures. Maturity across all four is **fixture-backed + internally tested + browser-verified**. No production customers, live business integrations, or paid-model operation are claimed here. Proof lives in each repository’s `proof/` directory.
+Each system starts with one command, carries its own test and evaluation suite, and is verified in a real browser. The test results, failure-mode runs and screenshots live in each repository’s `proof/` directory.
